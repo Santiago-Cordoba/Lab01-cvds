@@ -49,3 +49,13 @@ Sí, una forma recomendada es el **Git Flow**, que organiza el uso de ramas para
 
 Cada miembro del equipo debe crear una rama individual para trabajar en sus cambios y luego subir esas ramas al repositorio para la integración final. 
 
+
+
+
+
+
+
+
+
+
+##### cambio hecho por santiago Córdoba
